@@ -6,6 +6,6 @@ title: "Welcome to our second slide!"
 
 ---
 
-Your text
+vaisahk lachu
 
 Use the left arrow to go back!
